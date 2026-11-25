@@ -35,3 +35,13 @@ To explore e-commerce business performance, evaluate profitability, and provide 
 
 ## Project Scope
 The dashboards and underlying data model were independently developed using multiple CSV sources, with calculated measures and interactive features designed to support business performance analysis.
+
+## Live Dashboard
+
+Explore the interactive dashboard on Tableau Public:
+
+[View E-Commerce Performance Dashboard](https://public.tableau.com/app/profile/ziad.muhammad/viz/CalwestE-Commerce_17931294274620/PerformanceDashboard)
+
+## More Tableau Projects
+
+[Explore my Tableau Public Portfolio](https://public.tableau.com/app/profile/ziad.muhammad/vizzes)
